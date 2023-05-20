@@ -9,7 +9,7 @@
     }
 
     .cardbox {
-        @apply w-96 shadow-lg box-border flex justify-center hover:scale-110 duration-300;
+        @apply w-96 shadow-lg box-border flex justify-center hover:scale-110 duration-300 p-2.5;
     }
 
 }
